@@ -24,17 +24,17 @@ func Start(b ext.Bot, u *gotgbot.Update) error {
 
 	startButton[0][0] = ext.InlineKeyboardButton{
 		Text: "Source code",
-		Url:  "https://github.com/Anandpskerala/ForwardTagRemoverBot",
+		Url:  "https://github.com/KarthickNoWay/AnonymousForwardBot",
 	}
 
 	startButton[0][1] = ext.InlineKeyboardButton{
 		Text: "My Creater",
-		Url:  "https://telegram.dog/Anandpskerala",
+		Url:  "https://telegram.dog/KARTHlCK",
 	}
 
 	startButton[1][0] = ext.InlineKeyboardButton{
-		Text: "How to create a bot like me?",
-		Url:  "https://www.youtube.com/watch?v=swg6un2N4Fk&feature=youtu.be",
+		Text: "How to create a bot?",
+		Url:  "https://t.me/TamilSupport",
 	}
 
 	markup := ext.InlineKeyboardMarkup{InlineKeyboard: &startButton}
