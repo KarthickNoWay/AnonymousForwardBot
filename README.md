@@ -5,7 +5,7 @@ A Simple Forward Tag remover Telegram Bot Made in Go.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KarthickNoWay/AnonymousForwordBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KarthickNoWay/AnonymousForwardBot/tree/master)
 
 ##### Required Variables
 
