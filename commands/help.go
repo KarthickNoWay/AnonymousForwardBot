@@ -31,7 +31,7 @@ func Help(b ext.Bot, u *gotgbot.Update) error {
 	}
 
 	helpButton[1][0] = ext.InlineKeyboardButton{
-		Text: "How to create a bot like me?",
+		Text: "How to create a bot li?",
 		Url:  "https://t.me/TamilSupport",
 	}
 
