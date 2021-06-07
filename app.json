@@ -1,5 +1,5 @@
 {
-    "name": "ForwardTagRemoverBot",
+    "name": "AnonymousForwardBot",
     "description": "A Simple Forward Tag remover Telegram Bot Made in Go. Create ",
     "keywords": [
         "telegram",
